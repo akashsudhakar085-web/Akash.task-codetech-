@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.0",
+  "description": "Simple productivity tracker Chrome extension",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
